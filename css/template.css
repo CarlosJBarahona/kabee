@@ -106,7 +106,7 @@ body{font-family: OpenSans-Bold;background-color: black;}
 .contimgso{width: 100%;height: auto;margin-top: 30px;clear: both;}
 .redesfoot{width: 25%; height: 25%; float: left; margin: auto; margin: 5px;margin-left: }
 .footface{float: left;}
-.foottwi{margin-top: -5px; margin-left: -5px;}
+.foottwi{margin-top: 0; margin-left: -5px;}
 .copyright{color: white; margin-top: 80px;float: right;font-size: 10px;font-family: OpenSans-Regular;}
 /*FIN HOME*/
 }/*fin HD*/
