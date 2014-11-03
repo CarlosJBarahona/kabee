@@ -1,0 +1,181 @@
+*{margin: 0px;padding: 0px;}
+/*MENU*/
+/*cabecera*/
+body{height: auto;background-color: white;}
+.contenedor{}
+.header{width: 100%; background-color: white;}
+.contenedorheader{display: block;margin:0 auto;}
+.imglogo{width: 130px;height: 60px;float: left;}
+a{height: 100%;}
+a:hover{border-bottom: 3px green; }
+li{margin-top: 5px;text-align: center;height: 90%;}
+.bordepie{background-color: white;}
+.bordepie:hover{ border-bottom: 3px solid #8CC63E}
+.hoverpro{width: 100%;height: 100%;color: black;font-family: OpenSans-Regular;}
+.hoverpro:hover{background-color: #8CC63E;color: white;}
+.contredes{width: 30px;height: 100%;float: right;}
+.twimenu{margin: 28px 0 0 3px;}
+.facemenu{margin: 28px 0 0 3px;}
+.flep{display: block;margin:0 auto;width: 10px;height: 5px;margin-top: -5px}
+/*cabecera*/
+/*MENU*/
+
+
+/*HOME*/
+.imagenhome{position: relative;width: 100%; height: 560px;}
+.linetriangulos{width: 100%;height: 9px;position: absolute;bottom: 0;  background-image: url(../img/home/triangulo_naranja.png);background-repeat: repeat-x;}
+.artesanos{width: 100%; height: 225px; background-color: #FF873B;margin-top: -5px;}
+.flechaart{width: 35px; margin: auto; padding-top: 10px; padding-bottom: 80px; }
+.artflecha{width: 35px; height: 11px;margin: auto;}
+.textartg{width: 100%;height: auto;text-align: center;color: white;font-family: OpenSans-ExtraBold;}
+.textart{width: 100%;height: auto;text-align: center;color: white;}
+.lineart{width: 200px; height: 1px; border: 1px solid white;font-size: 14px; margin: auto;margin-bottom: -5px; }
+.imgart{width: 100%;}
+/*Slider*/
+#owl-demo .item{margin: 3px;}
+#owl-demo .item img{display: block;width: 100%;height: auto;}
+.owl-pagination{display: none}
+/*botones*/
+.contbotones{width: 100%;height: 30px; margin-top: -13px;}
+.botones{width: 86px;height: 35px; margin: auto;}
+.bizq{width: 50%;height: 100%;float: left;background-color: #FF873B;}
+.bder{width: 50%;height: 100%;float: right;background-color: #FF873B;}
+.imgbizq{width: 18px;height: 30px;float: left;margin: 2px;margin-right: 3px;}
+.imgbder{width: 18px;height: 30px;float: right;margin: 2px;margin-left: 3px;}
+.bac{background-color: black;}
+/*botones*/
+/*Productos*/
+.indexcontpro{height: auto;margin: auto;margin-top: 90px;margin-bottom: 160px;}
+.imgpro{margin-top: 10px;}
+/*Productos*/
+/*HOME*/
+
+/*PRODUCTOS*/
+.contenido{height: 230px;background-color: blue;clear: both;}
+/**header**/
+.mensaje{height: 125px;border: 2px solid white;margin-top: 15px;text-align: center;color: white;}
+.titulo{margin-top: 23px;OpenSans-Semibold;font-size: 25px;}
+.info{font-family: OpenSans-Regular;font-size: 19px;}
+.titulosm{margin-top: 20px;OpenSans-Semibold;font-size: 20px;}
+.infosm{font-family: OpenSans-Regular;font-size: 14px;}
+.tituloxs{margin-top: 10px;OpenSans-Semibold;font-size: 18px;}
+.infoxs{font-family: OpenSans-Regular;font-size: 12px;}
+/**header**/
+/*Slider*/
+.contenedorpro{margin-bottom: 50px;margin-top: 55px;}
+#owl-demo .item{margin: 3px;}
+#owl-demo .item img{display: block;width: 100%;height: auto;}
+.owl-pagination{display: none}
+.contpro{display: block;margin: 0 auto;}
+.contimg{width: 300px;height: 300px;}
+.imgpro{margin-top: 10px;}
+.clear{clear: both;}
+/*Slider*/
+/*efecto*/
+/*efecto*/
+/*botones*/
+.contbotones{width: 100%;height: 30px; margin-top: -13px;margin-bottom: 75px}
+.botones{width: 86px;height: 35px; margin: auto;}
+.bizq{width: 50%;height: 100%;float: left;background-color: #FF873B;}
+.bder{width: 50%;height: 100%;float: right;background-color: #FF873B;}
+.imgbizq{width: 18px;height: 30px;float: left;margin: 2px;margin-right: 3px;}
+.imgbder{width: 18px;height: 30px;float: right;margin: 2px;margin-left: 3px;}
+.bac{background-color: black;}
+/*botones*/
+/*PRODUCTOS*/
+
+/**BORDADOS**/
+.headerbordados{width: 100%;height: 230px;background-image: url(../img/bordados/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajebordados{height: 154px;background-color: #8EC63F;margin-top: 40px;}
+/**BORDADOS**/
+
+/**DULCES**/
+.headerdulces{width: 100%;height: 230px;background-image: url(../img/dulces/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajedulces{height: 154px;background-color: #ED008C;margin-top: 40px;}
+/**DULCES**/
+
+/**HENEQUEN**/
+.headerhenequen{width: 100%;height: 230px;background-image: url(../img/henequen/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajehenequen{height: 154px;background-color: #8EC63F;margin-top: 40px;}
+/**HENEQUEN**/
+
+/**JIPI**/
+.headerjipi{width: 100%;height: 230px;background-image: url(../img/jipi/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajejipi{height: 154px;background-color: #ED008C;margin-top: 40px;}
+/**JIPI**/
+
+/**MADERA**/
+.headermadera{width: 100%;height: 230px;background-image: url(../img/madera/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajemadera{height: 154px;background-color: #8EC63F;margin-top: 40px;}
+/**MADERA**/
+
+/**MERMELADA**/
+.headermermelada{width: 100%;height: 230px;background-image: url(../img/mermelada/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajemermelada{height: 154px;background-color: #ED008C;margin-top: 40px;}
+/**MERMELADA**/
+
+/**MIEL***/
+.headermiel{width: 100%;height: 230px;background-image: url(../img/miel/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajemiel{height: 154px;background-color: #8EC63F;margin-top: 40px;}
+/**MIEL***/
+
+/**MUÑECAS**/
+.headermunecas{width: 100%;height: 230px;background-image: url(../img/munecas/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajemunecas{height: 154px;background-color: #ED008C;margin-top: 40px;}
+/**MUÑECAS**/
+
+/**SPA**/
+.headerspa{width: 100%;height: 230px;background-image: url(../img/spa/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajespa{height: 154px;background-color: #8EC63F;margin-top: 40px;}
+/**SPA**/
+
+/**OTROS**/
+.headerotros{width: 100%;height: 230px;background-image: url(../img/otros/header.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajeotros{height: 154px;background-color: #ED008C;margin-top: 40px;}
+/**OTROS**/
+
+/*footer*/
+.contfo{width: 100%;height: auto;}
+.linetriangulos2{width: 100%;height: 9px;background-image: url(../img/home/triangulo_gris.png);background-repeat: repeat-x;}
+.footer{width: 100%; height: 170px; background-color: #828284;}
+.datosfo{width: 690px;height: 100%;margin: auto;}
+.contdatoscor{width: 100%;height: 10%; margin-top: 30px;}
+.contacto{width: 132px;height: 100%;float: left;}
+.correo{width: 20%;float: left;}
+.textco{width: 80%;float: right;}
+.imgcorreo{float: right;margin-top: 8px;}
+.h5cont{color: white;clear: both;font-size: 10px;}
+.contdatostel{width: 100%;height: 10%; margin-top: -15px;}
+.telfono{width: 20%;float: left;}
+.textte{width: 80%;float: right;}
+.imgtelef{float: right;margin-top: 13px;}
+.h5tel{color: white;font-size: 10px;margin-top: 15px;}
+.menufo{width: 461px;height: 100%;float: left;}
+.enlacefoot{width: 17%;height:20px;border-right: 1px solid white;float: left;color: white;text-align: center;margin-top: 37px;}
+.inifoot{width: 50px;height:15px;border-right: 1px solid white;float: left;color: white;text-align: center;margin-top: 37px;margin-left: 30px;font-size: 10px;font-family: OpenSans-Regular;}
+.somosfoot{width: 100px;height:15px;border-right: 1px solid white;float: left;color: white;text-align: center;margin-top: 37px;font-size: 10px;font-family: OpenSans-Regular;}
+.profoot{width: 85px;height:15px;border-right: 1px solid white;float: left;color: white;text-align: center;margin-top: 37px;font-size: 10px;font-family: OpenSans-Regular;}
+.prefoot{width: 62px;height:15px;border-right: 1px solid white;float: left;color: white;text-align: center;margin-top: 37px;font-size: 10px;font-family: OpenSans-Regular;}
+.contfoot{width: 76px;height:15px;border-right: 1px solid white;float: left;color: white;text-align: center;margin-top: 37px;font-size: 10px;font-family: OpenSans-Regular;}
+.social{width: 95px;height: 100%;float: left;}
+.contimgso{width: 100%;height: auto;margin-top: 20px;clear: both;}
+.redesfoot{width: 25%; height: 25%; float: left; margin: auto; margin: 5px;margin-left: }
+.footface2{float: left;}
+.foottwi2{margin-top: 0; margin-left: -5px;}
+.copyright{color: white; margin-top: 80px;margin-left: 10px;font-size: 10px;font-family: OpenSans-Regular;}
+
+/*FOOTER MOVIL*/
+.headermov{width: 100%;background-color: white;}
+.contmovil{width: 100%;height: 180px;background-color:green }
+.footface{margin-top: 30px;margin-left: 20px;}
+.foottwi{margin-top: 30px;margin-left: 20px;clear:both;}
+.contenl{width: 100%;height: 20px;margin-top: 20px;}
+.enlacesfoav{width: 47%;height: 15px;border-right: 1px white solid;float: left;text-align: center;color: white;font-size: 10px;}
+.enlacesfo{width: 27%;height: 15px;border-right: 1px white solid;float: left;text-align: center;color: white;font-size: 10px;}
+.enlacescon{width: 25%;height: 15px;border-right: 1px white solid;float: left;text-align: center;color: white;font-size: 10px;}
+.space{width: 80%;text-align: center;color: white;font-size: 11px;display: block;margin: 0 auto;}
+.movilhe{background-color: #8CC63E;float: left; height: 100%}
+.movilhe:hover{background-color: #8CC63E;}
+.movilhe:focus{background-color: #8CC63E;}
+.logomo{float: right;}
+/*footer*/
