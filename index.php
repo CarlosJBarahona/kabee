@@ -91,9 +91,7 @@ include("scripts.php")
 <div class="col-sm-4 col-md-4 col-lg-3 imgpro"><img class="img-responsive" src="img/home/muneca.jpg"></div>
 <div class="col-sm-4 col-md-4 col-lg-3 imgpro"><img class="img-responsive" src="img/home/otros_productos.jpg"></div>
 <div class="col-sm-4 col-md-4 col-lg-3 imgpro"><img class="img-responsive" src="img/home/kabee.jpg"></div>
-
 </div><!--contpro-->
-
 </div><!--container-->
 <?php
 include("template/footer.html");

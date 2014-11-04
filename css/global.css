@@ -14,12 +14,70 @@ li{margin-top: 5px;text-align: center;height: 90%;}
 .hoverpro{width: 100%;height: 100%;color: black;font-family: OpenSans-Regular;}
 .hoverpro:hover{background-color: #8CC63E;color: white;}
 .contredes{width: 30px;height: 100%;float: right;}
-.twimenu{margin: 28px 0 0 3px;}
-.facemenu{margin: 28px 0 0 3px;}
-.flep{display: block;margin:0 auto;width: 10px;height: 5px;margin-top: -5px}
-/*cabecera*/
+
+/**cabecera**/
 /*MENU*/
 
+/**MENU**/
+.menucabecera{height: 72px;font-family: OpenSans-Regular;clear: both;}
+
+/**LG**/
+.logolg{float: left;margin-left: -10px;}
+.botonesmenulg{width: 100px;height: 72px;float: left;border: white;}
+.botonesmenuquienlg{width: 120px;height: 72px;float: left;border: white;}
+.hoverbotonlg:hover{border-bottom: 5px solid #8CC63E;background-color: white;}
+.hoverbotonlg:focus{background-color: #8CC63E;color: white;}
+.fleplg{display: block;margin:0 auto;width: 10px;height: 5px;margin-bottom: -5px;}
+.redesmenulg{width: 40px;height: 72px;float: left;}
+.twimenulg{margin: 28px 0 0 10px;}
+.facemenulg{margin: 28px 0 0 10px;}
+.listaslg{font-family: OpenSans-Regular;}
+.listaslg:hover{background-color: #8CC63E;color: white;}
+/**LG**/
+
+/**MD**/
+.logomd{float: left;margin-left: -10px;}
+.botonesmenumd{width: 100px;height: 72px;float: left;border: white;}
+.botonesmenuquienmd{width: 120px;height: 72px;float: left;border: white;}
+.hoverbotonmd:hover{border-bottom: 5px solid #8CC63E;background-color: white;}
+.hoverbotonmd:focus{background-color: #8CC63E;color: white;}
+.flepmd{display: block;margin:0 auto;width: 10px;height: 5px;margin-bottom: -5px;}
+.redesmenumd{width: 40px;height: 72px;float: left;}
+.twimenumd{margin: 28px 0 0 5px;}
+.facemenumd{margin: 28px 0 0 5px;}
+.listasmd{font-family: OpenSans-Regular;}
+.listasmd:hover{background-color: #8CC63E;color: white;}
+/**MD**/
+
+/**SM**/
+.logosm{float: left;margin-left: -10px;}
+.botonesmenusm{width: 90px;height: 72px;float: left;border: white;}
+.botonesmenuquiensm{width: 120px;height: 72px;float: left;border: white;}
+.hoverbotonsm:hover{border-bottom: 5px solid #8CC63E;background-color: white;}
+.hoverbotonsm:focus{background-color: #8CC63E;color: white;}
+.flepsm{display: block;margin:0 auto;width: 10px;height: 5px;margin-bottom: -5px;}
+.redesmenusm{width: 30px;height: 72px;float: left;}
+.twimenusm{margin: 28px 0 0 3px;}
+.facemenusm{margin: 28px 0 0 3px;}
+.listassm{font-family: OpenSans-Regular;}
+.listassm:hover{background-color: #8CC63E;color: white;}
+/**SM**/
+
+/**XS**/
+.logoxs{float: right;margin-left: -10px;width: 50%;}
+.hoverbotonxs{height: 72px;float: left;border: white;}
+.hoverbotonxs:hover{border-bottom: 5px solid #8CC63E;background-color: white;}
+.hoverbotonxs:focus{background-color: #8CC63E;color: white;}
+.flepxs{display: block;margin:0 auto;width: 10px;height: 5px;margin-bottom: -5px;}
+.redesmenuxs{width: 30px;height: 72px;float: left;}
+.twimenuxs{margin: 28px 0 0 3px;}
+.facemenuxs{margin: 28px 0 0 3px;}
+.listasxs{font-family: OpenSans-Regular;}
+.listasxs:hover{background-color: #8CC63E;color: white;}
+.bacixs{background-color: blue;}
+/**XS**/
+
+/**MENU**/
 
 /*HOME*/
 .imagenhome{position: relative;width: 100%; height: 560px;}
@@ -45,10 +103,37 @@ li{margin-top: 5px;text-align: center;height: 90%;}
 .bac{background-color: black;}
 /*botones*/
 /*Productos*/
-.indexcontpro{height: auto;margin: auto;margin-top: 90px;margin-bottom: 160px;}
+.indexcontpro{height: auto;margin: auto;margin-top: 10px;margin-bottom: 160px;}
 .imgpro{margin-top: 10px;}
 /*Productos*/
 /*HOME*/
+
+/**QUIENES SOMOS**/
+.contenidoquienes{height: auto;clear:both;}
+.headerquienes{width: 100%;height: 480px;background-image: url(../img/quienes/1.jpg);background-repeat:no-repeat;background-position:center;background-size: 100% 100%;clear: both;}
+.contmensajequienes{height: 240px;background-color: #ED008C;margin-top: 110px;}
+.mensajequienes{height: 212px;border: 2px solid white;margin-top: 15px;text-align: center;color: white;}
+.tituloqlg{margin-top: 30px;OpenSans-Semibold;font-size: 25px;}
+.infoqlg{font-family: OpenSans-Regular;font-size: 20px;}
+.tituloqsm{margin-top: 25px;OpenSans-Semibold;font-size: 23px;}
+.infoqsm{font-family: OpenSans-Regular;font-size: 19px;}
+.tituloqxs{margin-top: 30px;OpenSans-Semibold;font-size: 15px;}
+.infoqxs{font-family: OpenSans-Regular;font-size: 12px;}
+.infoquien{width: 100%;height: 540px;background-color: #8EC63F;text-align: justify;color: white;}
+.flechaquienes{padding-top: 45px;display: block;margin:0 auto;}
+.textquien{margin-top: 80px;font-family: OpenSans-Regular;font-size: 18px}
+.imgquienes{width: 100%;height: 508px;}
+.textnaranja{width: 100%;height: 424px; background-color: #EC681E;}
+.textquien2{margin-top: 80px;font-family: OpenSans-Regular;font-size: 18px;color: white;text-align: justify;}
+.textquienxs{margin-top: 25px;font-family: OpenSans-Regular;font-size: 12px}
+.textquien2xs{margin-top: 25px;font-family: OpenSans-Regular;font-size: 12px;color: white;text-align: justify;}
+.contfoter{background-color: #EC681E;}
+/**QUIENES SOMOS**/
+
+/**PRENSA**/
+.contprensa{}
+/**PRENSA**/
+
 
 /*PRODUCTOS*/
 .contenido{height: 230px;background-color: blue;clear: both;}
@@ -67,8 +152,8 @@ li{margin-top: 5px;text-align: center;height: 90%;}
 #owl-demo .item img{display: block;width: 100%;height: auto;}
 .owl-pagination{display: none}
 .contpro{display: block;margin: 0 auto;}
-.contimg{width: 300px;height: 300px;}
-.imgpro{margin-top: 10px;}
+.contimg{width: 300px;height: 300px;display: block;margin: 0 auto;}
+.imgpro{margin-top: 71px;}
 .clear{clear: both;}
 /*Slider*/
 /*efecto*/
@@ -141,12 +226,12 @@ li{margin-top: 5px;text-align: center;height: 90%;}
 .datosfo{width: 690px;height: 100%;margin: auto;}
 .contdatoscor{width: 100%;height: 10%; margin-top: 30px;}
 .contacto{width: 132px;height: 100%;float: left;}
-.correo{width: 20%;float: left;}
+.correo{width: 15%;float: left;}
 .textco{width: 80%;float: right;}
 .imgcorreo{float: right;margin-top: 8px;}
 .h5cont{color: white;clear: both;font-size: 10px;}
 .contdatostel{width: 100%;height: 10%; margin-top: -15px;}
-.telfono{width: 20%;float: left;}
+.telfono{width: 15%;float: left;}
 .textte{width: 80%;float: right;}
 .imgtelef{float: right;margin-top: 13px;}
 .h5tel{color: white;font-size: 10px;margin-top: 15px;}
@@ -159,9 +244,9 @@ li{margin-top: 5px;text-align: center;height: 90%;}
 .contfoot{width: 76px;height:15px;border-right: 1px solid white;float: left;color: white;text-align: center;margin-top: 37px;font-size: 10px;font-family: OpenSans-Regular;}
 .social{width: 95px;height: 100%;float: left;}
 .contimgso{width: 100%;height: auto;margin-top: 20px;clear: both;}
-.redesfoot{width: 25%; height: 25%; float: left; margin: auto; margin: 5px;margin-left: }
+.redesfoot{width: 25%; height: 25%; float: left; margin: auto; margin: 5px;}
 .footface2{float: left;}
-.foottwi2{margin-top: 0; margin-left: -5px;}
+.foottwi2{margin-top: 0; margin-left: 5px;}
 .copyright{color: white; margin-top: 80px;margin-left: 10px;font-size: 10px;font-family: OpenSans-Regular;}
 
 /*FOOTER MOVIL*/

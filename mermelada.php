@@ -21,7 +21,7 @@ include("scripts.php")
           
             <div class="mensaje col-md-12 col-lg-12">
               
-                  <h5 class="titulo">DULCES</h5>
+                  <h5 class="titulo">MERMELADA</h5>
                   <h5 class="info">LOREM IMPSU AUTOR ALIQUET AENEAN SOLLISITUDIN, LOREM QUIS BIBENDUM AUCTOR, NISI ELIT CONSEQUAT</h5>
 
             </div>
@@ -35,7 +35,7 @@ include("scripts.php")
           
             <div class="mensaje col-sm-12">
               
-                  <h5 class="titulosm">DULCES</h5>
+                  <h5 class="titulosm">MERMELADAS</h5>
                   <h5 class="infosm">LOREM IMPSU AUTOR ALIQUET AENEAN SOLLISITUDIN, LOREM QUIS BIBENDUM AUCTOR, NISI ELIT CONSEQUAT</h5>
 
             </div>
@@ -49,7 +49,7 @@ include("scripts.php")
           
             <div class="mensaje col-xs-12">
               
-                  <h5 class="tituloxs">DULCES</h5>
+                  <h5 class="tituloxs">MERMELADAS</h5>
                   <h5 class="infoxs">LOREM IMPSU AUTOR ALIQUET AENEAN SOLLISITUDIN, LOREM QUIS BIBENDUM AUCTOR, NISI ELIT CONSEQUAT</h5>
 
             </div>
@@ -61,31 +61,20 @@ include("scripts.php")
     
 </div><!--contenedor-->
       <div class="container contenedorpro">
-        <div id="owl-demo" class="owl-carousel owl-theme"><!--slider-->
+        <div id="productos" class="owl-carousel owl-theme"><!--slider-->
 
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12contpro item"><!--contpro-->
 
-            <a class="fancybox-effects-d " href="img/mermelada/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/1.jpg"></div></a>
-            <a class="fancybox-effects-d " href="img/mermelada/2.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/2.jpg"></div></a>
-            <a class="fancybox-effects-d " href="img/mermelada/3.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/3.jpg"></div></a>
-
-
-            <a class="fancybox-effects-d " href="img/mermelada/4.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/4.jpg"></div></a>
-            <a class="fancybox-effects-d " href="img/mermelada/5.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/5.jpg"></div></a>
-            
+            <a class="fancybox-effects-d " href="img/mermelada/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 imgpro"><img class="img-responsive contimg" src="img/mermelada/1.jpg"></div></a>
+           
 
 
           </div><!--contpro-->
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12contpro item"><!--contpro-->
 
-            <a class="fancybox-effects-d " href="img/mermelada/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/1.jpg"></div></a>
-            <a class="fancybox-effects-d " href="img/mermelada/2.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/2.jpg"></div></a>
-            <a class="fancybox-effects-d " href="img/mermelada/3.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/3.jpg"></div></a>
+           <a class="fancybox-effects-d " href="img/mermelada/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 imgpro"><img class="img-responsive contimg" src="img/mermelada/1.jpg"></div></a>
+           
 
-
-            <a class="fancybox-effects-d " href="img/mermelada/4.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/4.jpg"></div></a>
-            <a class="fancybox-effects-d " href="img/mermelada/5.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/mermelada/5.jpg"></div></a>
-            
 
 
           </div><!--contpro-->

@@ -67,14 +67,14 @@ include("scripts.php")
 
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12contpro item"><!--contpro-->
 
-            <a class="fancybox-effects-d " href="img/munecas/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/munecas/1.jpg"></div></a>
+            <a class="fancybox-effects-d " href="img/munecas/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 imgpro"><img class="img-responsive contimg" src="img/munecas/1.jpg"></div></a>
            
 
 
           </div><!--contpro-->
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12contpro item"><!--contpro-->
 
-            <a class="fancybox-effects-d " href="img/munecas/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/munecas/1.jpg"></div></a>
+            <a class="fancybox-effects-d " href="img/munecas/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 imgpro"><img class="img-responsive contimg" src="img/munecas/1.jpg"></div></a>
            
 
 
