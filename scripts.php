@@ -10,9 +10,7 @@
 
   <!-- Bootstrap -->
   <link rel="stylesheet" href="css/reset.css">
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/global.css">
-  <link rel="stylesheet" type="text/css" href="css/fuentes.css">
+
   <!-- Important Owl stylesheet -->
   <link rel="stylesheet" href="css/owl.carousel.css">
   <!-- Default Theme -->
@@ -24,16 +22,16 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 
-      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-      <!-- Include all compiled plugins (below), or include individual files as needed -->
-      <script src="js/bootstrap.min.js"></script>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
 
-      <!-- Include js plugin -->
-      <script src="js/owl.carousel.js"></script>
+  <!-- Include js plugin -->
+  <script src="js/owl.carousel.js"></script>
 
 
-      <!-- Add mousewheel plugin (this is optional) -->
+  <!-- Add mousewheel plugin (this is optional) -->
   <script type="text/javascript" src="lib/jquery.mousewheel-3.0.6.pack.js"></script>
 
   <!-- Add fancyBox main JS and CSS files -->
@@ -51,13 +49,18 @@
   <!-- Add Media helper (this is optional) -->
   <script type="text/javascript" src="source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
 
-      <script type="text/javascript">
+  <link rel="stylesheet" type="text/css" href="css/default.css" />
+  <link rel="stylesheet" type="text/css" href="css/component.css" />
+  <script src="js/modernizr.custom.js"></script>
+  <script src="js/jquery.dlmenu.js"></script>
 
-        $(document).ready(function() {
+  <script type="text/javascript">
 
-          var owl = $("#productos");
+    $(document).ready(function() {
 
-          owl.owlCarousel({
+      var owl = $("#productos");
+
+      owl.owlCarousel({
     items : 1, //10 items above 1000px browser width
     itemsDesktop : [1000,1], //5 items between 1000px and 901px
     itemsDesktopSmall : [900,1], // betweem 900px and 601px
@@ -74,25 +77,28 @@
     })
 
   });
-$(".fancybox-effects-d").fancybox({
-        padding: 0,
+    $(".fancybox-effects-d").fancybox({
+      padding: 0,
 
-        openEffect : 'elastic',
-        openSpeed  : 150,
+      openEffect : 'elastic',
+      openSpeed  : 150,
 
-        closeEffect : 'elastic',
-        closeSpeed  : 150,
+      closeEffect : 'elastic',
+      closeSpeed  : 150,
 
-        closeClick : true,
+      closeClick : true,
 
-        helpers : {
-          overlay : null
-        }
-      });
+      helpers : {
+        overlay : null
+      }
+    });
 
 
-      </script>
 
-    </head>
-    <body>
-</html>
+  </script>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/global.css">
+  <link rel="stylesheet" type="text/css" href="css/fuentes.css">
+</head>
+<body>
+  </html>

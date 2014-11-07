@@ -14,7 +14,7 @@
 </head>
 <body>
   <?php
-  include("template/menu.html");
+  include("template/menu.php");
   ?>  
   <div class="contenido"><!--contenedor-->
      <div class="headerbordados visible-md visible-lg">
@@ -66,14 +66,25 @@
     <div id="productos" class="owl-carousel owl-theme"><!--slider-->
 
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 item"><!--contpro-->
+       
+<a class="fancybox-effects-d " href="img/bordados/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 imgpro">
+<ul class="grid cs-style-1"><li><figure><img class="img-responsive contimg" src="img/bordados/seccion/1.jpg"><figcaption><div class="mensajever"><div class="contmenver">VER MAS</div></div></figcaption></figure></li></ul> </div></a>
 
-        <a class="fancybox-effects-d " href="img/bordados/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/bordados/1.jpg"></div></a>
-        <a class="fancybox-effects-d " href="img/bordados/seccion/4.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/bordados/4.jpg"></div></a>
-        <a class="fancybox-effects-d " href="img/bordados/seccion/2.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/bordados/2.jpg"></div></a>
+<a class="fancybox-effects-d " href="img/bordados/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 imgpro">
+<ul class="grid cs-style-1"><li><figure><img class="img-responsive contimg" src="img/bordados/1.jpg"><figcaption><div class="mensajever">VER MAS</div></figcaption></figure></li></ul> </div></a>
+
+<a class="fancybox-effects-d " href="img/bordados/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 imgpro">
+<ul class="grid cs-style-1"><li><figure><img class="img-responsive contimg" src="img/bordados/1.jpg"><figcaption><div class="mensajever">VER MAS</div></figcaption></figure></li></ul> </div></a>
+
+<a class="fancybox-effects-d " href="img/bordados/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 imgpro">
+<ul class="grid cs-style-1"><li><figure><img class="img-responsive contimg" src="img/bordados/1.jpg"><figcaption><div class="mensajever">VER MAS</div></figcaption></figure></li></ul> </div></a>
+
+<a class="fancybox-effects-d " href="img/bordados/seccion/1.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 imgpro">
+<ul class="grid cs-style-1"><li><figure><img class="img-responsive contimg" src="img/bordados/1.jpg"><figcaption><div class="mensajever">VER MAS</div></figcaption></figure></li></ul> </div></a>
 
 
-        <a class="fancybox-effects-d " href="img/bordados/seccion/3.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/bordados/3.jpg"></div></a>
-        <a class="fancybox-effects-d " href="img/bordados/seccion/4.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit"><div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 imgpro"><img class="img-responsive contimg" src="img/bordados/4.jpg"></div></a>
+
+
 
 
       </div><!--contpro-->

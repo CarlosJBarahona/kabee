@@ -1,41 +1,9 @@
 <head>
-	
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<?php
+      include("scripts.php")
+    ?>
 </head>
 
-
-<div class="container">
-        <div class="row">
-        <img class="img-responsive" src="img/home/foto_header.jpg">
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                <p>Lorem ipsum Dolore ea adipisicing est nisi aliquip nostrud occaecat exercitation amet.</p>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                <p>Lorem ipsum Dolore ea adipisicing est nisi aliquip nostrud occaecat exercitation amet.</p>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                <p>Lorem ipsum Dolore ea adipisicing est nisi aliquip nostrud occaecat exercitation amet.</p>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                <p>Lorem ipsum Dolore ea adipisicing est nisi aliquip nostrud occaecat exercitation amet.</p>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                <p>Lorem ipsum Dolore ea adipisicing est nisi aliquip nostrud occaecat exercitation amet.</p>
-            </div>
-        </div>
-        <div style="background:black; height:100px;" class="col-md-6"></div>
-                <div style="background:orange; height:100px;" class="col-md-6"></div>
-    </div>
-
-
-<!--
- <div class="container">
- <div style="height:80px;background:black;" class="col-xs-6 col-sm-6 col-md-6 col-lg-6"></div>
- </div>
-    <link rel="stylesheet" type="text/css" href="css/bordes.css">
-    <style type="text/css">
-        body{background-color: white}
-    </style>-->
 <?php 
 $i="LOREM";
  ?>
